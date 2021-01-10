@@ -1,10 +1,10 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
+- course: BSc Fundamental Physics
+  institute: University of Science and Technology Houari Boumediene
+  dates: 2017 - 2021 (expected)
+  logo: usthb.jpeg
   
-- course: Explorer Fellow
-  institute: MLH Fellowship
+- course: Deep Learning
+  institute: Micro Club USTHB
   dates: Fall 2020
-  logo: fellowship.svg
+  logo: mc.jpg
   
